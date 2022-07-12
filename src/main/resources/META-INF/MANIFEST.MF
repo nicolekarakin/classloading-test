@@ -1,0 +1,4 @@
+Premain-Class: org.nnn4eu.nfische.classloaderwithlibs.ListLoadedClassesAgent
+Main-Class: org.nnn4eu.nfische.classloaderwithlibs.Launcher
+
+
