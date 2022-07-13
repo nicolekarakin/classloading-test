@@ -66,3 +66,6 @@ public class Launcher {
 //https://www.baeldung.com/java-list-classes-class-loader
 
 //java -javaagent:target/classloading-test-1.0-SNAPSHOT.jar -jar target/classloading-test-1.0-SNAPSHOT.jar
+
+//java -verbose:class
+//https://stackoverflow.com/questions/2548384/java-get-a-list-of-all-classes-loaded-in-the-jvm
